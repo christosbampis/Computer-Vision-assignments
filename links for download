@@ -2,3 +2,6 @@
    using optical flow energy - Lucas Kanade method
    
 -> http://www.filedropper.com/lk face tracking and monitoring using optical flow energy - Lucas Kanade method (avi video)
+
+-> http://www.filedropper.com/res_1 sample result from texture segmentation, using Gabor filters
+   and for specific parameters
